@@ -6,6 +6,7 @@ fun isPalindrome(x: Int): Boolean {
     else
         return false
 
+
 }
 
 
